@@ -1,4 +1,4 @@
 # Olá, GitHub!
-Primeiro repositório do curso de Git e GitHub.
+Primeiro repositório criado durante o curso de **`Git e GitHub`** do canal do [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo).
 
-Repositório criado durante uma aula ao vivo!
+Este repositório foi criado durante uma aula **ao vivo**!
